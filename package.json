@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.1.0",
+    "@vitalets/google-translate-api": "^9.2.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^0.21.1",
+    "cfonts": "^2.10.0",
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "escape-string-regexp": "^1.0.5",
+    "fake-useragent": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^11.1.0",
+    "jsdom": "^19.0.0",
+    "linkifyjs": "^4.1.0",
+    "moment-timezone": "^0.5.40",
+    "multistream": "^4.1.0",
+    "node-fetch": "^2.6.7",
+    "node-webpmux": "^3.1.1",
+    "qrcode-terminal": "^0.12.0",
+    "emoji-api": "^2.0.1",
+    "emoji-regex": "^10.0.0",
+    "emoji-unicode": "^2.0.1",
+    "request": "^2.88.2"
+  },
+  "name": "Sabrina-BOT",
+  "description": "Sabrina Multi Conexões.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "sh start.sh",
+    "test": "node connect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "BOT"
+  ],
+  "author": "Sabrina Conteudos",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
